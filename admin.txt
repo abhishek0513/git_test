@@ -1,3 +1,5 @@
 Testing the branching feature
 changes the roles
 update the permission and manage the database
+
+CLsoing the connection
