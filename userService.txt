@@ -2,4 +2,8 @@ geting the user data
 process the data
 data two 
 changes
+<<<<<<< HEAD
 login and logout
+=======
+Updated the userservices
+>>>>>>> feature2
